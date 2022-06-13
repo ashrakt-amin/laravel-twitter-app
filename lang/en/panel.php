@@ -1,0 +1,10 @@
+<?php
+return[
+    'home'=>'Home',
+    'profile'=>'Profile',
+    'notification'=>'Notification',
+    'likes'=>'Likes',
+    'messages'=>'Messages',
+    'replies'=>'Replies',
+    'explore'=>'Explore'
+];

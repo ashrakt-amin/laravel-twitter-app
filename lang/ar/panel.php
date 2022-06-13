@@ -1,0 +1,10 @@
+<?php
+return[
+    'home'=>'الصفحه',
+    'profile'=>'الصفحه',
+    'notification'=>'الاشعارات',
+    'likes'=>'الاعجاب',
+    'messages'=>'الرسائل',
+    'replies'=>'الردود',
+    'explore'=>'اكتشف'
+];
